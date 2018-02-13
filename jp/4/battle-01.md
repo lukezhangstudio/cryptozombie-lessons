@@ -1,5 +1,5 @@
 ---
-title: Zombie Battles
+title: 
 actions: ['checkAnswer', 'hints']
 requireLogin: true
 material:
